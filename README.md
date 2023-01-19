@@ -1,0 +1,2 @@
+# Diskiriminant-
+Diskiriminant calculation
